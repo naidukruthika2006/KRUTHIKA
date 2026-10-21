@@ -1,0 +1,9 @@
+.photo-card-3d {
+  width: min(100%, 360px);
+  height: 420px;
+}
+
+.photo-card-3d canvas {
+  width: 100% !important;
+  height: 100% !important;
+}

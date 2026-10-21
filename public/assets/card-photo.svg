@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 222 322">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18253c"/>
+      <stop offset="1" stop-color="#5b4acb"/>
+    </linearGradient>
+  </defs>
+  <rect width="222" height="322" rx="18" fill="url(#card)"/>
+  <rect x="14" y="14" width="194" height="294" rx="12" fill="none" stroke="#b9d7ff" stroke-opacity=".55"/>
+  <circle cx="111" cy="125" r="42" fill="#b9d7ff" fill-opacity=".18"/>
+  <path d="M65 235c10-35 28-52 46-52s36 17 46 52" fill="#b9d7ff" fill-opacity=".18"/>
+  <text x="111" y="278" fill="#fff" font-family="sans-serif" font-size="13" text-anchor="middle" letter-spacing="2">YOUR PHOTO</text>
+</svg>
